@@ -1,4 +1,5 @@
 *.class
-.vs_code/*
+.vscode/*
 .idea/*
 .DS_Store
+bin/*
