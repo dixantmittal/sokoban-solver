@@ -151,7 +151,7 @@ public class Search {
 			isUCS = false;
 		}
 		fringe.add(initial);
-		while (!fringe.isEmpty() && (System.currentTimeMillis() - startTime < 5000)) {
+		while (!fringe.isEmpty() && (System.currentTimeMillis() - startTime < 100000)) {
 			Node n = fringe.remove();
 			if (p.goalTest(n.state))
 				return getSolution(method, n, totalNode, redundant, fringe.size(), explored.size(),
