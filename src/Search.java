@@ -199,27 +199,14 @@ public class Search {
 	private String getSolution(String method, Node n, int totalNode, int redundant, int fringeSize, int exploredSize,
 			long totalTime) {
 		String result = "";
-		int steps = 0;
 		if (n == null)
 			result = "Failed to solve the puzzle";
 		else
 			while (n.parent != null) {
 				result = n.move + " " + result;
 				n = n.parent;
-				steps++;
 			}
 		return result;
-		// result = "Using " + method + ":\n" + result + "\n(total of " + steps + "
-		// steps)" +
-		// "\na) Number of nodes generated: " + totalNode +
-		// "\nb) Number of nodes containing states that were generated previously: " +
-		// redundant +
-		// "\nc) Number of nodes on the fringe when termination occurs: " + fringeSize +
-		// "\nd) Number of nodes on the explored list (if there is one) when termination
-		// occurs: " + exploredSize +
-		// "\ne) The actual run time of the algorithm, expressed in actual time units: "
-		// + totalTime + "ms";
-		// return result;
 	}
 
 	/**
