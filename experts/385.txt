@@ -4,15 +4,15 @@
 3 : Failed to solve the puzzle
 4 : u u r u l u l l d d d u u l u r u r r 
 5 : u u u u d d d d d r d r r r r r 
-6 : Failed to solve the puzzle
+6 : l l d l l u r d r u l l l u u l l d d r r r l u u l d l d r r u l u l u u u r d d 
 7 : d r r u r u l r u u u u u l l d l l u l l r r d r r u l d l l l 
 8 : d r d d l u r d d d l u u r u u l l d r u r d l l l u l l d l 
 9 : l u u u u r d r u u d d l l d d d r r r r u u u r u u u r l d d d l d d d r u u u u r u u l u r 
 10 : d d d l d l d r r r l u u r u r d r r d l 
 11 : Failed to solve the puzzle
-12 : Failed to solve the puzzle
+12 : l l d d l d d r u u u u u l l l d d r u l u r r r d r u 
 13 : u r r u r r d d d d u u u u u u l d l d r l l l u l d r u r r r r 
-14 : Failed to solve the puzzle
+14 : l l l l l d l l u r r r r d l l u r r r r u r d d d l l d l u 
 15 : l u l d u l l l u l r r r r u r d r d l 
 16 : r r r d l l u l l d l l u r r r r d l u r r d r d d l u r u u d l 
 17 : u u l u l l r r d r r u l u r l l d u l l l 
@@ -24,7 +24,7 @@
 23 : Failed to solve the puzzle
 24 : Failed to solve the puzzle
 25 : r d l r d d l u u r d d d r d r r u l l d l l r u r u l u u u l 
-26 : Failed to solve the puzzle
+26 : u u r r d r r u r r d d l u l l l u l l d r r r r r u u r d d l l u l l l d l u u u u d r u 
 27 : u u u l u u r u r u r d r d l u l d l d d r u u 
 28 : d d d d u u u u r r r d r u r d d l d d r d d l l l 
 29 : u l l d l l r r d d r r u u r u l d d d d r u u l d l l d d d r d r r u u 
@@ -43,16 +43,16 @@
 42 : Failed to solve the puzzle
 43 : Failed to solve the puzzle
 44 : r r u r u r r d d l u u u d l d l d l l u r r r r d r u d l l u l l l d l l u r r r r r d l l l l 
-45 : Failed to solve the puzzle
+45 : l d u u u l l l d r r r l l l l d d r r u l d l u r u r r u r r d d d d 
 46 : l r u l d l l l l u l l u u d d r r r r u r r d l l l 
 47 : r d d l l l l l u u r r r r l l l l d d r r r r r u u u d d d l l l u l u r r r l l d d r r u r u l 
-48 : Failed to solve the puzzle
+48 : u u l d r d d d l u l u r d r u d r r r r u u u u u l l l d r r u r d 
 49 : r r r r r r d l l l l u r r r r u r u u l d d u u l l l d r r u r d 
 50 : r u r d d l d d d r r u l d l u d l u 
 51 : d l d d r d d l d l l r r u r u u l d u u u r d 
 52 : d d d d l d d r u l u u r u u l d d d l r d 
 53 : d u r d r r u r r d l u l l d l l d d d u r u l u u r r d l u l d u r r r r d l 
-54 : Failed to solve the puzzle
+54 : r r r r r l l l l l d d r u l u r d r r r r r u r d d d u u u u u l 
 55 : u d r u u u l u d r d d l u r r u l u u l u r r 
 56 : Failed to solve the puzzle
 57 : Failed to solve the puzzle
@@ -60,60 +60,60 @@
 59 : d u r d l d d r d d u r u u 
 60 : l l l u u r u l u l u r d r r r u r d u r d d r d l 
 61 : l l d d d d r d l r r u r u l l r u l u 
-62 : Failed to solve the puzzle
+62 : d l l u d r u u l d l u u d r r u u u u r u l l l d l l l r u r r r l d r r 
 63 : Failed to solve the puzzle
-64 : Failed to solve the puzzle
+64 : r r r r r l l u r r d r u u l u r l l d d l d l l u r r r r d r u l l l d r 
 65 : Failed to solve the puzzle
 66 : Failed to solve the puzzle
-67 : Failed to solve the puzzle
+67 : u l l u u l d l u u u d d d d d r u u r u l d r r r 
 68 : l d l u l u l l r u r r r d l d d r d d l u u u u l r r d u u l l l l 
 69 : l u l u u u u r r l u r d d d l d 
 70 : l d d l l u u u r u r u u r r r r d l l l u l d d d d 
-71 : Failed to solve the puzzle
+71 : r d d d l r u l l l l u l l d r r r r r d r u l l l l l d l u u l u u r d d l d r r r 
 72 : Failed to solve the puzzle
-73 : Failed to solve the puzzle
+73 : l l l l r r r u u r u l l l u l d r r r r u u l d r d l l l d l r u u l d d u l l l u u u u r d 
 74 : d r d d d d l d d r l u u r u u l d d d 
 75 : r d l r r d r d d d r d l u l l u r 
 76 : l l u l l l l r r r r d d l u r r r d l r d 
-77 : Failed to solve the puzzle
+77 : r d d d l d r r r r l l l l u u l d l d r r r u u u u l d d d u u u l d d d 
 78 : r r r u u u l u u r u l d d d r u u d d d d l d l l u r r d r u u u l d u u u r d l u u u r d 
 79 : Failed to solve the puzzle
-80 : Failed to solve the puzzle
+80 : u r r u u l d r d l r d r u r u u u u l u l d d u u u r 
 81 : Failed to solve the puzzle
 82 : l d d d r d r d l r r r u r r u u l d l d l l u r r r r d l l 
 83 : u l u u r u l l r u r r r d l d d r d l 
-84 : Failed to solve the puzzle
+84 : r r r d d r d l r r u u r l l l d l u r u u u u l l u l d 
 85 : d d r d d l l r r u u l l d d u u r u u l d 
 86 : Failed to solve the puzzle
 87 : u u r u r d r u r u r u u l l l l d d l u u l u r 
 88 : r u u l l l l l r r r r r d d l u r u u l l l l l d r r r r d d r d d l u u u 
-89 : Failed to solve the puzzle
+89 : r l u r r r r r r u r d d u l l l l u u r d l d r r r d r u u d l l l u l u l u r u r d d d l d r r 
 90 : Failed to solve the puzzle
 91 : u u d r u l l d l d d l u l u r 
 92 : r r r r r r l d l l l l d d d d r d r r u l l d l u r r r r u r r d d l u d l l l l u l u u 
 93 : u r u r d d l l l l l l r r u l r r r d r r u u l d r d l l 
 94 : Failed to solve the puzzle
 95 : d d d l u r u u u u l l d l l l u u r d l d r r r u l d l l u u r d r d r r u r d d d d 
-96 : Failed to solve the puzzle
+96 : u u l d l u r r r u u r d r d d l r u l l d u l l l 
 97 : l d l u u u l l l r d d l u l u r d d r r r u r d 
-98 : Failed to solve the puzzle
+98 : r d l l u l l l u r r u r d r d l l d l d l u 
 99 : Failed to solve the puzzle
 100 : r d l u l d d d r u l u r r l d r r r 
-101 : Failed to solve the puzzle
-102 : Failed to solve the puzzle
-103 : Failed to solve the puzzle
+101 : d d r l u u r u u l u u r r r r r l l l l l d d r r u d l l u u r r r r 
+102 : r u u l l l d d r d l u l d d d r u u u l u r r r r 
+103 : r l d l u u l l l l d r r d d l u r u u l l d r u r d d r r d r r 
 104 : Failed to solve the puzzle
-105 : Failed to solve the puzzle
+105 : u u l l d r r l l l l d l l u u r r r l l d d r d d r r r r u u u 
 106 : u r r r r r d d d l d d r u u u u r u l l l r r d d r d l d d l l l u r r d r u 
 107 : u u u l u r l u l l d r r d r d d l u u u 
-108 : Failed to solve the puzzle
-109 : Failed to solve the puzzle
+108 : r r r u u u l l l u r d r r d d l d l d d r r u u l l d r d r u 
+109 : r u d l l u r r u l u r u u d d d r d u u u 
 110 : r r d d d u l l l l l u r r u l l 
-111 : Failed to solve the puzzle
+111 : r d r d l r r u u l l l d l u r r r u r u u u l d l l l l 
 112 : l l l d l l r d r r u r 
 113 : l u r r r r u u l l d r d r r r u r u l l r r d d d d d d 
-114 : Failed to solve the puzzle
-115 : Failed to solve the puzzle
+114 : l l d l r u l l d d l l d d r r u u u d l d l u u r u r r l d 
+115 : r r r d d r d d r u r d u u l l u r u u l d 
 116 : l l d l l d l l r u l u u l u r d r r d r l l 
 117 : Failed to solve the puzzle
 118 : Failed to solve the puzzle
@@ -124,17 +124,17 @@
 123 : r r r r u l l l l l d l l u u u u u r r r r r l d l u l l l d d d d d r r u l d l u u u r u 
 124 : Failed to solve the puzzle
 125 : r l u u l u l u r r r r d r r u r d d l u l l u r r 
-126 : Failed to solve the puzzle
+126 : l r d d r r r u u r u u l d d d u u u l d d d r d l d r r l u r l l l l l d l u 
 127 : u u u r r d r d r r u u l l l l l d d r r u l l u l 
 128 : l l d d d r d d l d d r u u u u l d d d u u u u u u r r d l u l d d d 
 129 : Failed to solve the puzzle
 130 : u u u u r d u r r d l l u r r r r d d r u r u l l 
 131 : Failed to solve the puzzle
-132 : Failed to solve the puzzle
+132 : d u r r r d l l d l l l u r u r d l l l d d d d u u u r r d l d d l d 
 133 : d r r u d r l l l u r u r d r d l l 
 134 : u u r r u r d l l d l d l d r r d r r r u 
 135 : l l l d l u l l d l u u u r d u r d d 
-136 : Failed to solve the puzzle
+136 : d r u u u u r u u r u r r d l l u l l l r d d r d l r u u r r r d l l 
 137 : Failed to solve the puzzle
 138 : u u u r d d l d r u r u u u u d r r 
 139 : l l u l u u u u d d d d r d r r u l l r r u l 
@@ -143,17 +143,17 @@
 142 : r r r r u r r u r u u u d d d l d d r u u u 
 143 : r u u u u u r r u l d d d l d d d r r u l d l u u d d r r r r r r u u u l d 
 144 : l u u u l u r u l l l r d r d r d d d d l d l l l l l u r d r r u r r d r u u u u d l d d r d l l l 
-145 : Failed to solve the puzzle
+145 : l u l u r r r d d r d d l u u u d d d d l l u u u d d d l u u u 
 146 : Failed to solve the puzzle
 147 : r d d r u d r d r u u u u l l l r r d l l l 
-148 : Failed to solve the puzzle
+148 : d l l u u r u l u l l l d d r u l u r u r r d d l u l u u l d d d d r u r r d d d r r u l d l u u r u l l l u 
 149 : Failed to solve the puzzle
 150 : r d d d u l u r u l r r r r d l l l l d d d r 
-151 : Failed to solve the puzzle
+151 : d l u r u u l u r l l u r u r d r l d r r 
 152 : d l d r d d l u u d d d r r d r u u u 
 153 : d d d d r r u r l l d l u r u r u l d r r r 
 154 : Failed to solve the puzzle
-155 : Failed to solve the puzzle
+155 : r r u r r d l l l u l d d u r r r r r d d d d r u u d d d d l u u u u 
 156 : l u u u r l d d r u r u u d d r d l l u l u r u u l d 
 157 : d r u u d d l d d d r u u d r u d d 
 158 : r r u r d r r r u l l u l d l d l l u r 
@@ -162,60 +162,60 @@
 161 : d l d d d d l r r r u l u l u u r d l d d r d d l l 
 162 : l u u u u u r r d r r u l l r d d d r d d d d l l l l l u u u u r u u r r 
 163 : Failed to solve the puzzle
-164 : Failed to solve the puzzle
+164 : d l d l l l l r u r d r d d d r r d l d l u u u u d d r r u l d l u 
 165 : l u u r r r d d l l r u r u u u l l d l d d r r l l u u r d l d r d r r u u u d l l d d r u 
 166 : Failed to solve the puzzle
 167 : Failed to solve the puzzle
 168 : r u u u l u l l d d r d r l l u l l l 
-169 : Failed to solve the puzzle
+169 : r d r l d r r u r r d d l u u l u r l d l l u r 
 170 : l l l l l l u u r d u u r r r r r u r d d u u u u l d d d l l l d l u l l d d r u d l d r r r r 
 171 : Failed to solve the puzzle
 172 : Failed to solve the puzzle
 173 : u r u r r u u l l d d d d r d r u u u l u d d 
-174 : Failed to solve the puzzle
+174 : r u u r r d l u r r d d d d r d l r d l u u u l u r u l u l l d r r u r d 
 175 : d l l u l d l u d d d r r u u d l 
 176 : d d r r r l u l u l u u u d r d d d r d l 
 177 : d d d r d d l u l l d l l u r r r r r l u u d d d l l l 
-178 : Failed to solve the puzzle
-179 : Failed to solve the puzzle
-180 : Failed to solve the puzzle
+178 : r r r u u r u l u r l l u u u r d r l d d d d r d l 
+179 : u r u u r u u l d u u l l d d r r d r u u l l u r r r l d r l l d d d d d r d l l 
+180 : r u r r r u u u d d l l u u r u l d d l d l u u 
 181 : Failed to solve the puzzle
 182 : u u l r u l u l l l l l l d r r u r r d d d r 
 183 : r r l l u l l d r r d d r r r u r u u l d d d l d d d 
 184 : Failed to solve the puzzle
 185 : d d u u r d d l d d d u r d l d 
 186 : Failed to solve the puzzle
-187 : Failed to solve the puzzle
+187 : d d d d d r r r r r u l l l u r r r r r d l l l l d l l l u u u u u u u r r d l u l d d 
 188 : d r r r r d l l r r r r d d d l u u r u l 
 189 : r d d d d r d d l u r u l d d l l d l l r u r r r d l 
 190 : Failed to solve the puzzle
 191 : l d l l u u u r u r d r d r d d l l u r 
-192 : Failed to solve the puzzle
+192 : r r d l l l l r d r u u r r r r d l l l l d d l u l l u u u 
 193 : r u r d l d d r r r d r u d d d l u u u l l l l d r r r 
 194 : Failed to solve the puzzle
-195 : Failed to solve the puzzle
+195 : l l l d d d d l r d d l d r r u r u l d l l l u u r u l r r d d r d l l d l u u 
 196 : r r u r d r u r r u r u u l d d d u l l d l u 
 197 : l d r d r u d d d d d l u d l l u r r u u l d d r d r u u u u 
 198 : u l l d u l d l r r d r r r u r d 
-199 : Failed to solve the puzzle
+199 : d l u u u u l u u r r r l d l d d r u r r l u u u r d d 
 200 : l l d r r r d d l u r u l l r d d d d d u r u d d d l l l l l l 
-201 : Failed to solve the puzzle
+201 : r u l l r d r d d l d l l l l r r r d l l l l u r r r r r r d l l l l l u l u u 
 202 : Failed to solve the puzzle
-203 : Failed to solve the puzzle
-204 : Failed to solve the puzzle
+203 : u l u u r r d r u l u r r d d r d d d d l d l u 
+204 : l d d r d l r u u u u u l d d d d u u u u r u u l d u l d r d d 
 205 : Failed to solve the puzzle
 206 : u u l d l l u u u l d l d d r r l d d r 
 207 : l u u u u r d r d l u l d r u r u r u r r r d d l d r d r u 
 208 : d r u u d l d d r d r r r r r 
 209 : u u u u r u u u r r r r d r l l l l u l l d d r d d l u r u u l u r r r r 
 210 : d l d l u u r r r r r d l d r r u 
-211 : Failed to solve the puzzle
+211 : d d r l u r r d r r u l d l l d d d r r r 
 212 : d r d r r u r r d l 
 213 : Failed to solve the puzzle
 214 : Failed to solve the puzzle
-215 : Failed to solve the puzzle
+215 : d d d l d r d r d d l u u r u l l u l d l l l l u r d r u l l d d d d r u 
 216 : l u u u r u u u d d d l d d r u r d l u u u u l u r r 
-217 : Failed to solve the puzzle
+217 : r r u r u l d l u u u r d d d d r l l d r r r l u u r d 
 218 : d l d d d d r d l l l l l r r r r u u u r d l u u u r u u l d r d d l d d r u u u u 
 219 : Failed to solve the puzzle
 220 : l u l u u l u u r r d l u r r r d l u l l l u u r d l d d d u u r r r 
@@ -224,18 +224,18 @@
 223 : Failed to solve the puzzle
 224 : u u u r d l u u u r u r r d l l u l d d d u u u r r r r r d r l l l l l u l d d 
 225 : d r r r r r r u l u r u r d l l l l d 
-226 : Failed to solve the puzzle
+226 : r u r d d r d l u u u r d l l l l l u r r r r d r u r r d l l l d d l r r u l u u r r d l u u d l d d u l l 
 227 : r r r r u r l l l d l l u l u u u r u 
 228 : d d d d l u u r u l l u r l u u r d r d d l u r u l 
 229 : Failed to solve the puzzle
 230 : u r r l l d r l d r r r u u u r u u u l l d 
-231 : Failed to solve the puzzle
+231 : l d r d l l u l l l d r r l l u u l d d r d d l d r 
 232 : d d r r u u u d l d l u u u r r u d d r u 
 233 : l d r r d l d d d l l 
 234 : Failed to solve the puzzle
-235 : Failed to solve the puzzle
+235 : d d r l u u r r d l u l d l l l u l u u r d l d r d d l u u 
 236 : d d r d u l u u r d l d d l d 
-237 : Failed to solve the puzzle
+237 : l u l u l d u l d d d u r r l d d l l r r r r u r u r u l 
 238 : Failed to solve the puzzle
 239 : Failed to solve the puzzle
 240 : d d r d r r u d l l u l l d l l u r r 
@@ -251,7 +251,7 @@
 250 : u l d d d l l u r r l d d r d r d d l l u u r d 
 251 : r u u l d d d d l l d d l l u u u u r u l d d d d d r r r r d l u l u l d l u u u u 
 252 : Failed to solve the puzzle
-253 : Failed to solve the puzzle
+253 : r d d d l d d r u u u u d l l l d d l u u r d r r d l l r r r u u 
 254 : Failed to solve the puzzle
 255 : l d d l l u l l d d d u u r u r d r r u l 
 256 : d d d r u r d r u l u l u r u u r d u r u u l d 
@@ -260,11 +260,11 @@
 259 : Failed to solve the puzzle
 260 : Failed to solve the puzzle
 261 : r d l d l r r u r d d l r d d 
-262 : Failed to solve the puzzle
+262 : u l u u r d u l u u r d l d d r r r d r d l l l u d r r u u l l d l u u u d d r r r d l 
 263 : Failed to solve the puzzle
 264 : Failed to solve the puzzle
-265 : Failed to solve the puzzle
-266 : Failed to solve the puzzle
+265 : d r l d d r u u r r l l l u r u l u r d d r r r r d r l u l l d r 
+266 : l l d d d d d d u l d u u u r d r u u l l l 
 267 : Failed to solve the puzzle
 268 : Failed to solve the puzzle
 269 : u u r r u l l u l l d l l u l d r r r d r d 
@@ -280,17 +280,17 @@
 279 : l u l l r d r r r u l r r u u l l d d r d l l 
 280 : d r d l u l d d d r u l u u r r d l u r r r d l d l r u u l l d d r r u l 
 281 : l l u l l d l l u r 
-282 : Failed to solve the puzzle
-283 : Failed to solve the puzzle
-284 : Failed to solve the puzzle
+282 : d r r r r u u l l d u r r d d l l l r u u l r r u r u u u l 
+283 : d r r u r u r u u r u r u u l d l d d l d d r u d l d l d l l u r r d r r u u l d u u u r 
+284 : u u r r r d d l l u r u l l l l d r d l d r r u r u l l l 
 285 : u u d l u r u u l u r l u l l r r r r 
 286 : l l l l d r d l d l d r r r r u l u l d 
 287 : Failed to solve the puzzle
-288 : Failed to solve the puzzle
+288 : r r r r u l l l d l u u r r d r r u l r u l u r u l l 
 289 : r r d d d u u u l l d d r u d d r u u 
 290 : Failed to solve the puzzle
-291 : Failed to solve the puzzle
-292 : Failed to solve the puzzle
+291 : u r r u r r d d l d r u u u u l l u l d d d d l u l l l u u r l u r r d d 
+292 : d d l l u u l u r d d r r r u r d l d d d d d r u 
 293 : Failed to solve the puzzle
 294 : l l d r d l r u u u l l d u l u l d d d 
 295 : r u r d l d r r r d r r u u l d r d l u u u u u l l l l l l d d r u l u r r r r l l l d d r u 
@@ -299,12 +299,12 @@
 298 : d l d l l d l d d d d r r r u u r d l d r u u u u l d d d 
 299 : Failed to solve the puzzle
 300 : u u r r r d l l d d d r d l l l l r r r u u u l u d l l u r r l u r r d d d d r d l 
-301 : Failed to solve the puzzle
+301 : d d u u u l l l u u r d r d l u r r r r r l d d d d r d d l l u r d l l l u r r 
 302 : Failed to solve the puzzle
 303 : Failed to solve the puzzle
-304 : Failed to solve the puzzle
+304 : r r u u r r d l d l d r r u l u r l l l l u r 
 305 : u r u l l u r u l l d l d d r u r d 
-306 : Failed to solve the puzzle
+306 : r r r u u u u l l d r r d d l r r r l u u l u r d r r u r d 
 307 : r r u r r d r r u l l l l d r l d d r u u r u l d l l l u l d d d d 
 308 : Failed to solve the puzzle
 309 : Failed to solve the puzzle
@@ -312,25 +312,25 @@
 311 : l u u d d d r r u u r u l d l l d l u u 
 312 : d l d d u u l u u r d r d d d d d l l d l l u r r 
 313 : Failed to solve the puzzle
-314 : Failed to solve the puzzle
-315 : Failed to solve the puzzle
+314 : r u u u u u u l d u l l d l l l u l d d u r r r r r r u r d d d d d d u u u l u r u u l l d r u r d l l l u l l 
+315 : d r u r r u r u l r r d d l l d l l u l d 
 316 : d d l u d d d d r r u l r u r u l l u l d u r r u r d d 
 317 : Failed to solve the puzzle
 318 : d r d r u r l l u r r r d r 
 319 : u u u l l d r d d d l d l d l u r r r u r d l d r r 
 320 : l u u r r d l d r u l u l d u u u u d r d 
-321 : Failed to solve the puzzle
+321 : l u r u r d l u l l d d l d r r d d l u r r r d l 
 322 : d r d d l d d r d l l u u u u d r r d u u l 
-323 : Failed to solve the puzzle
+323 : r d d r u u u d r r u l l r u l l d d l u l u r u r d d 
 324 : Failed to solve the puzzle
-325 : Failed to solve the puzzle
-326 : Failed to solve the puzzle
-327 : Failed to solve the puzzle
+325 : r d l l l d d r u u l u r r d r d l l d l u l u d l u r r r r 
+326 : l l l l d l l u d r r u l l d l u r u u d d r r r r r d l l r r d d l u u r u l l l l d l u u 
+327 : l d d d d d d d r r u l r r u u l l d l d u l u u r d l u u u r u l l 
 328 : l d l d d d d d r u r l l u u u r u u u l d d r u r u r r d l l l d l u d d 
 329 : u u u u u d l u r u l d d r d d l l d r d r u u l u u u 
 330 : u u u l d u l l d l l u l l d d u u r r d l u l d r r r r r r u r d d d 
 331 : u l u l u d l d d r r r r r u u l l r r r r d d l l r u r u l l 
-332 : Failed to solve the puzzle
+332 : l d u r r r d d r l l d r r l l l u l u l u l d d d d d d 
 333 : Failed to solve the puzzle
 334 : u d r r u u u u d d l l d r d r u l l l d l u 
 335 : r u u r u u u u l l l u l l l l d u r r d d r u r r r r d d l u r u l l l u l d d d d l d d d r r r r r u u u 
@@ -339,7 +339,7 @@
 338 : Failed to solve the puzzle
 339 : Failed to solve the puzzle
 340 : u u r u l u u r u r u l d d d d d r r l l d r r u r 
-341 : Failed to solve the puzzle
+341 : l d d d r u u u u l d d l l d r r d r u u l u r 
 342 : r u u r r d l r r u r d d l d l u 
 343 : u r r d r r u l d l u l l d d r d r d l r r r r 
 344 : d r d l d d l l l u r u r d r d l 
@@ -349,26 +349,26 @@
 348 : u r l u r r r r d r r u l l r r r d d d d l l l l l 
 349 : Failed to solve the puzzle
 350 : d r d r u u u u l u u d d r d d d l l u r u r d 
-351 : Failed to solve the puzzle
-352 : Failed to solve the puzzle
-353 : Failed to solve the puzzle
+351 : d r d d r u u r u l u l u u r u r d l d d l d d d u r r u l 
+352 : l l d l l l d d l d d r l u u r d d l d r r r r r l l l l u u u u u r r r r u r r d l l l d l l u r l l d d d d l d r r l u u r d 
+353 : u l u u l u r d l d l l d u u r l l u u u r d 
 354 : r d d l d d d d d r u u l u u u r r d l u l d d d r d d l u r u u l u u r u u l d d d u r r d l 
 355 : Failed to solve the puzzle
 356 : r d r l l d d l r r r u r d d d l u u u r u l 
 357 : u u l d d d l d l l u r d r u d r r r r u l 
-358 : Failed to solve the puzzle
+358 : l l u l l d d d r r u u l u u u r r r r d l l l d l d r r r l l d d l u 
 359 : u r r l l d r r r d u u l d d d d 
 360 : r r u r d d d r d r r u u l d u u r u l l l l 
 361 : l u u u l r u l l d l u d d l l l d d d r d r u l u u u 
 362 : Failed to solve the puzzle
 363 : d r d d l d l d l l l l u u u d d d r r r r u r r d l l r r u u u u l d d u l d d 
-364 : Failed to solve the puzzle
+364 : d l u u l l d d l u l u r r r r d d l u d l d l u u u r r 
 365 : Failed to solve the puzzle
-366 : Failed to solve the puzzle
+366 : r r r u r u r d u u u l d l u l l d l u l d r r r r d r u r u l l 
 367 : Failed to solve the puzzle
 368 : Failed to solve the puzzle
 369 : r r u l l l l l r d d l u l d u u u d r r r r 
-370 : Failed to solve the puzzle
+370 : l l l d l l d d r u l u r r u r d d u l l u l u u u u r r r r d l l l u l d d 
 371 : r r d d d l d d r r r u r r d l u l l d l l u r r l u u u l u l l d r r u r d d d l d d r r u r u l d d l l u r u u u d d r r d r d l l 
 372 : d r u r r r r r d d l d r u u u l d d r d d l l l r u l r r d r u 
 373 : d r d r d l r r u r u r r r d l d u l l r d l l 
@@ -387,7 +387,7 @@
 386 : l l l u r r u u r u u l d d d d l d r r l u u u u u r r r d r l l l u l d d d d r d r r 
 387 : d r r d u u l d l l l u l l d r r r r u l 
 388 : Failed to solve the puzzle
-389 : Failed to solve the puzzle
+389 : d r u u u r u u l l d r r l d d d l d l l d d r u d r r u u l d l l u r r r u u u r u l 
 390 : Failed to solve the puzzle
 391 : Failed to solve the puzzle
 392 : d l l r d l l l u l d l d l u r u 
@@ -395,62 +395,62 @@
 394 : d d l d r l d d r u r r l d d d l u 
 395 : d d u l l d l u l d l r r d l l 
 396 : Failed to solve the puzzle
-397 : Failed to solve the puzzle
-398 : Failed to solve the puzzle
+397 : d l l u r d r u u u u r u u l l d r l l d r r r r l l d d d l l d l l u r r r d r u u 
+398 : d r d d r d l u l d d u r u r r u l r r r d l l l l 
 399 : d d d l u u u r u l l d l l u l l d r r r r l l l l d d d d d r d r r u 
 400 : d d d d d d l u d l u u r d r u u d l u u u d l l 
 401 : l d l l l l r r r r u l r u l l d u l d l l d 
 402 : u u u r l u r r r u r u l u l l d 
 403 : r r u u u u u u l u l l l r r r d r d d l d r d d d l l u r d r u u u l d r d d l l u r d r u u 
-404 : Failed to solve the puzzle
-405 : Failed to solve the puzzle
-406 : Failed to solve the puzzle
-407 : Failed to solve the puzzle
+404 : r r u l d r d d d l u u u l u r u l l l d u l l d r r r l d d d 
+405 : l l d r u r r d d r d d d r d l d r l u u l d l d l l u r r r u r r d d l l r u 
+406 : l u u u r u r u l l l l l d d d r d r u u r u l 
+407 : d r r u r r d d d d d l d d r u u u u u u r u r r d l l u l l l r r d d d d d d u u u r u u r u l l l 
 408 : Failed to solve the puzzle
 409 : d d u l d d u l d d l d r l l l l l u r r 
 410 : d l l l r r r u r r r d d d l u r d d l l l d l l u l l d r r 
 411 : Failed to solve the puzzle
 412 : l u r u l l l d r u r r d r r d d r r u l 
-413 : Failed to solve the puzzle
+413 : d d l d d l d r u l u l l u l l d l u r r r d l 
 414 : l u u r u u d r u u l d d l d d d r u u u u u r u l r r u l r r r r r d l 
 415 : u u d d d r d r r u l r u u l d d r d l l l r r u r u u u u u l l u l l d r r r u r d 
 416 : Failed to solve the puzzle
 417 : Failed to solve the puzzle
-418 : Failed to solve the puzzle
+418 : l d d r d d r u u u l u r l d l l l d d 
 419 : d l l u l u r d d l r r r u l l u l d 
 420 : Failed to solve the puzzle
 421 : l d d d r r d d d u l l d r u u u l d d 
 422 : u u l r u r u l l r d l d l l u l l d d d l d d d r u l u r 
 423 : r u r d d l u l u u r u l u r r r 
 424 : Failed to solve the puzzle
-425 : Failed to solve the puzzle
-426 : Failed to solve the puzzle
+425 : u l l d l l u r r r l l l u u u r d r r r u u l l d r d l r u u r d r d d d 
+426 : u r d d d r d l l u u u r r d d r d r d l l l l 
 427 : Failed to solve the puzzle
 428 : Failed to solve the puzzle
-429 : Failed to solve the puzzle
+429 : d l d l u r r d d l d d l d r r r u u d d r r 
 430 : u u l d r d l l r d r d l l u l u r r r r r u d r u u 
 431 : l r d d l u l u u u u d l u l l d r r 
 432 : Failed to solve the puzzle
-433 : Failed to solve the puzzle
+433 : u l l l d l l u r u r d u u u l l u u r d d d d d l u u 
 434 : Failed to solve the puzzle
 435 : Failed to solve the puzzle
-436 : Failed to solve the puzzle
+436 : u u u l u r d d d l u r d r r r u u r d u u r d d d d u l u l d d d 
 437 : l l l u u l l d d r u r d r r u l r u l 
 438 : Failed to solve the puzzle
 439 : u u l u r r r d l d d d r d l d 
 440 : Failed to solve the puzzle
 441 : r d r l d d d l l l l d r r u r r d d r r u u l l l l l 
 442 : u r d r d l d d u u u l d d u u r u r r u r r d r d l u l d u l 
-443 : Failed to solve the puzzle
+443 : r r r u l u r u l l d d l l l l r u u l l d d u r 
 444 : l l u u r u r r d l u l d l d d r r u l r u r u l r r u u l u r u l l 
 445 : Failed to solve the puzzle
 446 : d d l d d r d l r d l u u u u r d d d l d l d l u l 
-447 : Failed to solve the puzzle
+447 : r r r r u l l u l u l d d d l l r r u u r d d d r d 
 448 : Failed to solve the puzzle
 449 : d d d d d u u r u r 
 450 : Failed to solve the puzzle
 451 : u u r r d r d r d d d u u u l u l u l l d r r u r r d d l u r u l r d d r d d l u u 
-452 : Failed to solve the puzzle
+452 : d r r r r r l l l d r r r r u u r d d l l l l u l l l u u r d l d r r l l d r 
 453 : r u l u l d u l d u l d r d l r d d l d r 
 454 : Failed to solve the puzzle
 455 : Failed to solve the puzzle
@@ -466,19 +466,19 @@
 465 : Failed to solve the puzzle
 466 : d r d d r r r u r u l l u r d d d l u r u r u 
 467 : r l d r r r l l l u u r r r d r d 
-468 : Failed to solve the puzzle
+468 : l l d d d r u u u r u l d d d r r r d r u l l l u u r u u u u l d 
 469 : Failed to solve the puzzle
 470 : d u u u u r d d r r u l d l d d r u l u u d r 
-471 : Failed to solve the puzzle
+471 : d d l u u u u u d l l u r u r d r d l r d d 
 472 : Failed to solve the puzzle
 473 : Failed to solve the puzzle
 474 : r d d d d d l u u r u u u l l d r u r d d d l u r u u l l d r u l l l d r l u l l l u u r d 
-475 : Failed to solve the puzzle
+475 : r d r d d d l l l l r d d l u l u d r r u l r r r r u u l d r d l l 
 476 : Failed to solve the puzzle
-477 : Failed to solve the puzzle
+477 : l l d l d d d l d r u u u u r r d l u l d d d r u u l u r d r u d l d l d d d l d r r r 
 478 : l u u r r d l u l d u r r u r d r d r r u l l l 
 479 : u r u r u u l d r d l u l d u l l r d d l d l u r u l 
-480 : Failed to solve the puzzle
+480 : l l l l l u r r u u r u l d d d l l u u r d d l d r r r r r 
 481 : d d r d l d l d d l d r r r l u r u u u u u 
 482 : l l u l l l l d r d l r r r l l u u r d r 
 483 : u l l l l r u u u r d d d r d l d l 
@@ -488,19 +488,19 @@
 487 : d d l d r u r d l u u u r d l d d d d r d d l u u 
 488 : Failed to solve the puzzle
 489 : d u r d r d r r 
-490 : Failed to solve the puzzle
+490 : u r u u r r r u r d l d d d u u l l d l d r d r r 
 491 : d r r r r r r r u u u u u u d l l l u l u r r 
 492 : l u l u u u u r r d l u l l u u r r d d l l d d r u r 
 493 : d d d d d r u d r r u l l l d l u r r u u u d d l l d l 
 494 : r r d d d r d d l l r r u u l u u u l l l d r r u r d d u u r d d 
-495 : Failed to solve the puzzle
+495 : d d r u u l l u r r u u r u l d l l u l l d r r 
 496 : Failed to solve the puzzle
-497 : Failed to solve the puzzle
+497 : r r u u l u l u u u u r r d l u l d l d d r d r r u l l d r r d d d l u u u r u l r r r d l 
 498 : d l d u r u u r r l l l d u l u r r r r r 
 499 : d d r d l l u u r r u r r d u r d d l l 
 500 : Failed to solve the puzzle
-501 : Failed to solve the puzzle
-502 : Failed to solve the puzzle
+501 : d d d r d l d l l l l l u u r r u r r r u r d l l l l d l l u r r r r 
+502 : u u r r u r u l l l d l d r d r d r d r r u l l l l d l u 
 503 : r l d r r l u l u r r d r d u r u r d d 
 504 : r d d l d d d r u l u u u l d u u u r d d d l d 
 505 : Failed to solve the puzzle
@@ -508,38 +508,38 @@
 507 : d d l d d u r d d r r r u l l l d l d l l u r r r r r 
 508 : l u l d u u u r d d d l d 
 509 : d r r r u r r r d d l r d r d l l u l d l 
-510 : Failed to solve the puzzle
+510 : r u u l u u l d r r d l l l d d r u r d 
 511 : Failed to solve the puzzle
-512 : Failed to solve the puzzle
-513 : Failed to solve the puzzle
+512 : u u l u u r r r r d r r d d d l u u r u u l l d r u r d l u l l l d r r r 
+513 : r r u l d l d l u u u l l u l l d r r l l d r r u r r 
 514 : Failed to solve the puzzle
 515 : l l l d l l u l l d r r r l l l u u u u u r r u r r r d 
 516 : l l u l d l d r l l l l u u r r r l l d r l l d r r r 
-517 : Failed to solve the puzzle
+517 : d d d l u u r u l l l l l r r d l l r r d r u r d d d l u u r u l l l 
 518 : d l l u r r r r r u u r u u l d r d d l d d l l l r r r r u u u u l d 
 519 : r r u l l l d l l u l l d r r r r u l l l r r r d r u r r d d d d d d d l l l r r r u u l d r d l l 
 520 : d r u r u u l u u r u l l l l l r r d r d r d r d d l u u u u r d u u l l l 
-521 : Failed to solve the puzzle
+521 : l l l l u r r l l u r u r d r d r r r r u l d l u l 
 522 : Failed to solve the puzzle
 523 : d d d u r d l d d r d r 
 524 : r r r d r r u r r d l l u u u r u r d d 
-525 : Failed to solve the puzzle
-526 : Failed to solve the puzzle
+525 : u l l d l d l d l d l d r r u u u r u u u d r r r d l l 
+526 : u l l l d d l l u r l u r r r r r u r u l r r d d l l l l l r r r r d r d d d l u u u r u l l l l 
 527 : Failed to solve the puzzle
 528 : l l r d l l l l l d l d d r u u l u r r l u r 
-529 : Failed to solve the puzzle
+529 : r d d r u d d d l u l d l l u r r r u u u r u r u u l d d 
 530 : Failed to solve the puzzle
 531 : u l d d d l d r d d u r r d l l u u l l l d l u 
 532 : l l u l d u r r r r r d l l l l r r r r d d d d r d d l u u u l u u r u l l 
 533 : Failed to solve the puzzle
 534 : Failed to solve the puzzle
-535 : Failed to solve the puzzle
+535 : d d d r u d r u u l r r u l r r r r r d l r d l l l l l l 
 536 : r d d r d l d d d r r u u l d l d r u l u u r u u l u u r d d d d d d 
 537 : r d d d r d d d r d r r u l l l u u l u u u u r d d 
 538 : d r r u u l d u l l l d l d r l l l u r r 
 539 : Failed to solve the puzzle
 540 : Failed to solve the puzzle
-541 : Failed to solve the puzzle
+541 : r d r d r r r u u u u l l l d d r r d u l l d r d l u u u u r r r d d d l 
 542 : l u u r r r r r r l l l l l l d d r r u l u r l l u r r d r r r 
 543 : l u r d r r u r d r u d d d l l u r l u 
 544 : r r d r r r u r d u u l d l u l u u l l d l r d 
@@ -548,22 +548,22 @@
 547 : u r u l d r d r u r d r u d r u 
 548 : d d d d d r r r r l l l l u u u u u u u r r d l u l d d d d r d d l d r 
 549 : d r l u u r u l d l u u u r d d d d u u u u r u u l d u l d 
-550 : Failed to solve the puzzle
-551 : Failed to solve the puzzle
+550 : u u r r d r d l l u l d r r r r r u r u l d l u 
+551 : u u u r u d l u u r r r d l u l u r d l l d d r u u r u u l l d 
 552 : u u u u d r d r d d l u l d 
 553 : l d d l l u r d r r d r d l l 
 554 : d d r r u l d l l d d r u d r r l u u u 
 555 : Failed to solve the puzzle
 556 : r u r r d d d d l d r d l d r u r u 
 557 : Failed to solve the puzzle
-558 : Failed to solve the puzzle
+558 : l d d u r u r r d l l u l l d u l d r d r u d d d u l 
 559 : l l u u u r r d r d u u r u l u l l d l d r 
 560 : Failed to solve the puzzle
-561 : Failed to solve the puzzle
+561 : r r d r r r u r d d d u u l l l l u l l d r r r r r u r d l l l l u r r r d r d r d d d l d l 
 562 : Failed to solve the puzzle
 563 : u l u u u r u d l d d d r r u l d l u r u u l u u r d d d d l d r d r r r r r 
 564 : Failed to solve the puzzle
-565 : Failed to solve the puzzle
+565 : d d d d d d u u u r r d d d l d l u u r d r u u d d r d r r u r u l 
 566 : Failed to solve the puzzle
 567 : r u u u u l l l d d r u r d u u u l l l l l d r 
 568 : l l u u l d l d d r r u l l u l d l l u u d r r r r 
@@ -576,32 +576,32 @@
 575 : d r d d l u u r u l l l l u r u r r u r d d d d 
 576 : Failed to solve the puzzle
 577 : d d d l d r u u r r u r d l d d d d l l u u d r 
-578 : Failed to solve the puzzle
+578 : l d d r d l u u u l r r u l l d l l u l l d r d d 
 579 : u r u u u u u l d l l d l d d r u u r r u r d d d 
 580 : d l l l d l l u r r r r d l l u l l d d r u l u r r d r r u r r d l l l l u l l u u r d l d r 
-581 : Failed to solve the puzzle
+581 : r r u r d l d d l d l l u r d r u d l l l l u r r r r r d r d 
 582 : d u l d d d u u u r r d d d d d d u l u l l 
 583 : d r d l d r d d l l l u r u l 
 584 : d d l d r l l d l u u r u u u l l u l l d r r r u r r 
 585 : Failed to solve the puzzle
 586 : r d d l u r u u u l l l l l r d l r r r d r u r u l l 
 587 : Failed to solve the puzzle
-588 : Failed to solve the puzzle
-589 : Failed to solve the puzzle
+588 : r l d l d d r r r r l u r l u u u d l l d d d l d r r r r u r 
+589 : l d d l u l d u u l l d r l d r r r u r u l l l d r r 
 590 : Failed to solve the puzzle
 591 : Failed to solve the puzzle
 592 : u d l u u u u d l u r r d r u u 
 593 : Failed to solve the puzzle
 594 : Failed to solve the puzzle
 595 : l l r r r d d d l l u u d l u u r r d r u d d r u 
-596 : Failed to solve the puzzle
-597 : Failed to solve the puzzle
+596 : r r r r r d l l r u r u r u u l l d d r u d l d r d l 
+597 : d u r d d d r r d r d l l l l u u r u u l d d d 
 598 : l d l d d d r r u l l u u r u u l d d d l d l d 
 599 : r l d r r r u r r u r d l d r d l l u 
 600 : Failed to solve the puzzle
 601 : l d l l l r r r u r r d l l u l l l l l d d d d d d d r r r r r r 
 602 : Failed to solve the puzzle
-603 : Failed to solve the puzzle
+603 : l d l l l l u u r d u r r d l d r r l l u l l l u l d d r 
 604 : l u u r u r d d d d d l u u d d l d d r u 
 605 : Failed to solve the puzzle
 606 : Failed to solve the puzzle
@@ -609,24 +609,24 @@
 608 : d d r d d l d l u r r u u l d d u u u u l l d r u r d 
 609 : u r u u l d l l u l l r r d l r r r r d d l u 
 610 : Failed to solve the puzzle
-611 : Failed to solve the puzzle
+611 : r u r r r d l l u l d l d r d l r r r u l u r 
 612 : u r l u r d r r u r r r r d d d d d u u u l u l l r u r 
 613 : l u u l u u u u u r r r r r r d d d d u u u u l l d r u r d d d u u u l l l l d l u l d d d d d d u u u r u u l u r r r r 
 614 : Failed to solve the puzzle
 615 : r d d l d d r r u r d l l l u r u u u l d d r d d r r u l r r l u l l 
 616 : l d r r r r d u u l r r d d u l l l l l d d r u l u r r 
 617 : Failed to solve the puzzle
-618 : Failed to solve the puzzle
+618 : u l d d d d u r u u u u u l d d d u u u l l l d l u l l d d r u r u l d d l d d d 
 619 : d l l u d l u r r r d r r r r u l 
 620 : r r r r l l u u u u l u u r u r r r r d d d d d u u u u u l l d r u r d l l u l l d l d d r u u 
-621 : Failed to solve the puzzle
+621 : r u u r u l u r d l d d d l l u r d r u d r u u u d d l l l d l l u r r r r d r u l u u r u u d d r u u 
 622 : l l u l u l u l l d r u u r r r l d r d l d r u r d d 
 623 : Failed to solve the puzzle
 624 : u u u l l r d d d u u l l l u l l l d d r u r l l u r r d r r r u r d 
 625 : l d l u u u l d d l d r r r u r r d r r u l l l l 
 626 : u u r u u l r r u u l l d r u r d l l l d r d 
 627 : u u l l d d d d d d r d r r u u u u d l u u u l 
-628 : Failed to solve the puzzle
+628 : d r u r d u u r u r r r d l l r d l u l l l u r 
 629 : u u u l r d l d r d d d d d l l 
 630 : d r d d d d l l l r u r u r d u u u l u u r d d d d 
 631 : Failed to solve the puzzle
@@ -635,14 +635,14 @@
 634 : u d d r r u l d l l u u r d l u u u r u u l u r r 
 635 : u u u u u d d d d r r d r r r u r r u u l d d r d l u u u u u l u r 
 636 : l l d r d l l l l r r u l l l r r u l l 
-637 : Failed to solve the puzzle
-638 : Failed to solve the puzzle
+637 : u l l d l l u l d l d r l l d r r r r u r r d l l 
+638 : d d r r u r u u l u d l d l d r u u u u r d r u l u l r r 
 639 : Failed to solve the puzzle
 640 : u r r u u l l d d d r d u u r u l u l d 
 641 : Failed to solve the puzzle
 642 : u l d l d d r u r u l d l l u u l u r 
 643 : u u d r d r u d d l u l d d r d r d l l 
-644 : Failed to solve the puzzle
+644 : u u l u u r r d l u l d d r d d d l d d r u u l l u l d d r r u r u u u l u r r r r 
 645 : l l d r d l r r r u l u l d r r r u u l u u u 
 646 : u u u u u d r u l u r r d r d d d d d r u l u u u u l u u r d d d 
 647 : d r u r d r d d l l u r r u l l u u u l u r 
@@ -650,27 +650,27 @@
 649 : l u l d l d l l u l u u r d u u u r d r u 
 650 : l r d d d u r d d l d d r u l d l l l u l l u u u l u r 
 651 : d d d d d d r r l l u r u l u u r u l u u r r r d r d r d 
-652 : Failed to solve the puzzle
-653 : Failed to solve the puzzle
+652 : d d l u l l d d l u l u r r r r d l l d l u u u l d d d d d r u 
+653 : d l u r r r d l u l l l l l d d r u l u r r r d l r u r r d l l u l l l d d r u l u r r r d l u l d r r r r u l l d l l l d d d d d d r r r 
 654 : u r r d l d l d r u l u u r r r r 
-655 : Failed to solve the puzzle
+655 : l d r r l l d l l u r r d d l l d d r u u u u r r 
 656 : Failed to solve the puzzle
 657 : Failed to solve the puzzle
-658 : Failed to solve the puzzle
+658 : u u l d u u r u r r d d d u u r u r d d d l d r 
 659 : Failed to solve the puzzle
 660 : Failed to solve the puzzle
 661 : d d d d r r l l u u u r r u r r r u u u l l d r u r r d d l d l u r r u u l d l 
 662 : Failed to solve the puzzle
-663 : Failed to solve the puzzle
+663 : d u r d d r d d l d d l l u r r u u l d r d d l l u r d r u d r u u u l u u u 
 664 : r d l u l l d l d l l u u r r r r r d l l r d l l u l u l d d r l d d 
 665 : Failed to solve the puzzle
 666 : l l l l l l r d d l l u r d r u l u r r r d r 
 667 : l d l u r u l l d l d r l d d r u u l u r u r r d d d l l u r l l d 
 668 : Failed to solve the puzzle
 669 : Failed to solve the puzzle
-670 : Failed to solve the puzzle
-671 : Failed to solve the puzzle
-672 : Failed to solve the puzzle
+670 : u l l l l d d r u r r l l l u r r r r d l l d l l l l u r l u r r r r r 
+671 : r r u u r u l u u u l u r d d d l l r r d d l u r u l u l l d 
+672 : u r r d l d d r d d l u u u u r u l l l d l u r r r d d d d d d l l u r d l l l u r r d r r u u u u u l r r u l l 
 673 : u r u l u u l u l l l r d r u r d r r u l l 
 674 : u l l u l u u u r r r d r r u r u l l l d r l u l l d l d d d r d d l u r r r d l u l l u u u 
 675 : r r d u r r r d l d l l l l u l u l u u u u r d 
@@ -682,8 +682,8 @@
 681 : Failed to solve the puzzle
 682 : r r d d d u u u l l d d r u d d d u r u u d d d d 
 683 : Failed to solve the puzzle
-684 : Failed to solve the puzzle
-685 : Failed to solve the puzzle
+684 : d d r d r d d l u l d d r d l l r r r u l u u u r u l u u r d 
+685 : u l l l u l l d r r r r r u r d d l u l l l l l l d d r u d r u l u l u r r r l l d r r r r r d r d d d d l u 
 686 : r r d l d r r d r u u l u r r d 
 687 : u r r l u r l l l l l d r u r d 
 688 : d r r u r d l d d r l l u d l u 
@@ -697,30 +697,30 @@
 696 : u u r u l d d d r u r l l u u r d u l u u r d l u u u r d l d d r d l d d d r r u l d l u u u r d l d d r r u l d l u 
 697 : Failed to solve the puzzle
 698 : Failed to solve the puzzle
-699 : Failed to solve the puzzle
+699 : d r r u r r l l d r l l l u r r r u r r d d u r d d 
 700 : l l d d d r d d d l l u r u r u u u u d l d d d d r r 
 701 : r r l l u r r r r r u r u u l d d r d l l l r r d d r u u u d d d d d l l l l l l 
 702 : r r u r d u r r r u r d d d l l u u l u r d r d d r d d 
 703 : Failed to solve the puzzle
 704 : u l u d d r d l u l u l u r r r l l u r r 
 705 : l l d d d d r u d d l l r u u u u u r r d l u l d d d d r d r d l l 
-706 : Failed to solve the puzzle
-707 : Failed to solve the puzzle
+706 : l l l d d r r u r d d l d r u u r u l u l l l d l 
+707 : r r r r u l u u l l l d r l l d r r u r u r d d d d 
 708 : r r d l l l d l d l u u u r r r l d l u l d d 
 709 : u l l d r r d u u r r d r d l d r 
 710 : Failed to solve the puzzle
 711 : d d l d d r u l d d l d d l l l r r r r r u l u l d 
 712 : l u u u r u r r r d l d r r u r u l l d l l l 
 713 : u d d r r r d l r u r r r d r d l l 
-714 : Failed to solve the puzzle
+714 : l l u u d d l l u r l u u r r u u d l l u u r r l d r d d d d l d r r r r r 
 715 : u u u u u u r d r d l r d l d d r r 
-716 : Failed to solve the puzzle
+716 : l d d l u r u l u u r u l d r d d l l l l u l u r 
 717 : u r u r r d d l d r u r d l l u l u l d l d l l u r 
 718 : r r r r l l l u u l u u u u r u r d l l d d d d r d d l u u 
-719 : Failed to solve the puzzle
+719 : u u u u u r u u r r r d l r r d d l u r u u l l d r u r d d l d r u l u l u l l d d l d d r u u u r r u r d 
 720 : d r r d r l u l l d r u r r r r d r u u u l u r l u u u r d d d d d 
 721 : d d r r r r l l l l u u u u u u u r r r r d l u l l d l d d r u u l u r r 
-722 : Failed to solve the puzzle
+722 : d r r r u u r u l d l u d l l d d r u u u l r u d r u u l 
 723 : r u u l l d u r r r r u u l d r d l d l d l l r u 
 724 : l l u l d l l l l u u r d d u u r r d 
 725 : l d r l d d r u r d l d r u r u l u l u r 
@@ -728,25 +728,25 @@
 727 : l l l l l r r u r u u u u d d d d d r r u l 
 728 : Failed to solve the puzzle
 729 : l l l u u r r r r r r l l l l l d r r d r u d r r u 
-730 : Failed to solve the puzzle
+730 : d d d l u l d l u u u r d r d r u u u u u l l l d r r 
 731 : r d r r r d r d d d d l u r u u l u u l l l u u r d l d r r l u u r d r d l r u r d d d 
 732 : l r d l l u l l u l l d u r d d r r 
-733 : Failed to solve the puzzle
-734 : Failed to solve the puzzle
+733 : r u r r r d r d l l l u r u r r r r d d l l l l r r u r 
+734 : l l d d r d r l l u u r r d d d r d r u u u 
 735 : l d d r u l u r r r d l u l l d d r u l u r d r r u r r d l l l l d l u r u r 
-736 : Failed to solve the puzzle
+736 : l l l d d l d d r u u u r u r r r d d d d r u u u l u r d d d d r d d l u u u u d d d d l u u u u 
 737 : Failed to solve the puzzle
 738 : r d r r d d d r u u u u u d d l l l l d r r u r d u u u 
-739 : Failed to solve the puzzle
+739 : u l u u l l u u r r d l r u r r d l l u l l d d d d d u u u r u r r d l d d r u u u 
 740 : Failed to solve the puzzle
 741 : l d d u u u u r d r u u u l d u l d d d d u r d u r u l 
-742 : Failed to solve the puzzle
-743 : Failed to solve the puzzle
+742 : r u u u u l l d d r r r l l l u r r r u u l u r 
+743 : d d l u u l l d d r u l u r r d r u u u d d d d d d l l u u u l u r r d r u u 
 744 : Failed to solve the puzzle
 745 : d r r u l d l l u l l d r r r r u r d d d d l d d l d r u r u u u u u l u l l d l l u l l d r r 
-746 : Failed to solve the puzzle
+746 : d r r d r u u u l d d u u l d d d l r d u r d d l l 
 747 : d l u l d r r d d d d l u l u r u l r u d r d d 
-748 : Failed to solve the puzzle
+748 : l u r d r r r r u u l l l d d r r u l u r l d l l l u 
 749 : u u r r d d u u l l d d r d r r l l u u r d l d r u r r r 
 750 : Failed to solve the puzzle
 751 : u l d r u u l r u u l d d r d d l l d d r d l 
@@ -755,10 +755,10 @@
 754 : Failed to solve the puzzle
 755 : d r r u l l r r u u u u u u l d l l l l l l d d r u l u r r r r d l l u l l d d r u l u r r d r r u r r d r u d d d l u 
 756 : u l d d u u l l l d d d d d u u u u u r r d l u l d d d 
-757 : Failed to solve the puzzle
-758 : Failed to solve the puzzle
+757 : l l r u l d r d d l u u u d l u u u d r u u r u l 
+758 : u u r r u l d l d d r r d l u u u u u l d u u r r r d l 
 759 : u u u u u r d u r r u r r r u l l l l l 
-760 : Failed to solve the puzzle
+760 : u l u u r r d l u l d u u r u r d l l l u l l d r r r r u l l l 
 761 : Failed to solve the puzzle
 762 : Failed to solve the puzzle
 763 : r d l d d r r l l u u u u u r r u u l d u l d d r l d d d d 
@@ -769,41 +769,41 @@
 768 : Failed to solve the puzzle
 769 : Failed to solve the puzzle
 770 : r r r r l u r u r r d l l r u r u u u l l d l r r u r d 
-771 : Failed to solve the puzzle
-772 : Failed to solve the puzzle
+771 : u u l l u u u u l u r r r d r r u r r d l l l l u r l d l l u l d r d d d d r r u l d l u u u d d d r r d d l u r u u l l d r u r d 
+772 : d r r d d d l u u d d l l u u r l d d r r u l d l u 
 773 : d l r d r r u l r u u u u l l l l l l u l d r r r u l 
 774 : l l u u r d d r d d d l l l d d l u d l l u r u r d u r r r u r r d l l l r d l 
-775 : Failed to solve the puzzle
-776 : Failed to solve the puzzle
+775 : u u r l d d d r u u u d r u u u l u r u r r d l r r u r r d l l l d d l 
+776 : r d d l d d d d d r u u l u u u r u u r r d r u r d d u u l l l l l d d d d d d 
 777 : u r r r r u l u r r u r r d l l d r d r u 
 778 : Failed to solve the puzzle
 779 : Failed to solve the puzzle
 780 : l u l l d d r u d d l d r d d d l u u u u u u r r r d l u l d d d 
-781 : Failed to solve the puzzle
+781 : d d d d d l u u u l u r u l u r d r u r r u r d d d u l 
 782 : Failed to solve the puzzle
 783 : l l r r u l l l l l d l r d l 
 784 : l u l d l d d r d r d d d l l u u r d l d r u r u l u r u 
 785 : Failed to solve the puzzle
-786 : Failed to solve the puzzle
+786 : r r r r u u l l l r r r r d r u l u l l l l d d l 
 787 : d r d d d d d l u d l l u l l u l d l d r 
 788 : u r u u l u u u r u l l l d l l l r r r u r r d l l l l u r r d r r r d d d d 
-789 : Failed to solve the puzzle
+789 : r r r d r u u l u u d d d l l d l l l l u r r r r r d r u u u l u u u 
 790 : Failed to solve the puzzle
 791 : Failed to solve the puzzle
 792 : Failed to solve the puzzle
-793 : Failed to solve the puzzle
-794 : Failed to solve the puzzle
+793 : d d d d l d d r r r r u u l l l r d l l l r d r r u u r r d l l l l 
+794 : l d r l u u l u u r r u l l d d d r u l u u r u u l d d u l d r d d 
 795 : Failed to solve the puzzle
 796 : r r r r d l l u l l l d d r u l u r d d d d l u u u r u r r d l u l d d u r r r r u r r d l l l l l u l d r r r r u l l 
-797 : Failed to solve the puzzle
+797 : l r u l u u u r r r d l l l l r d d d l l r d d l l u r d r u 
 798 : Failed to solve the puzzle
 799 : Failed to solve the puzzle
-800 : Failed to solve the puzzle
-801 : Failed to solve the puzzle
+800 : r u u l u r l l d l l d r d r u r u l 
+801 : r r r r d r u l l l d r r d d l u u r u l r r r d r d d l l r u u r u l d l 
 802 : l l l d r u r r d r r u l l l r d r r r r d d l u r u u l l l l r d r r u r d d d d d 
 803 : d r r r d r d l d l u u u l u l l l d r r r u r d 
 804 : l l d l l l u l l d r d d u u u r r d l 
-805 : Failed to solve the puzzle
+805 : l r d l r r d l l l r u l r u l u l u l d d r l d d d d 
 806 : l u d l l u r r r u r u l l l d r l l d r r d r r u 
 807 : Failed to solve the puzzle
 808 : r r u r r d r r l l u l l d l l u r 
@@ -813,18 +813,18 @@
 812 : Failed to solve the puzzle
 813 : Failed to solve the puzzle
 814 : r u r d l l l u r r d r r r u u l d r d l l l u r r u r d l l l l l d l l u r r r r r d l l l 
-815 : Failed to solve the puzzle
+815 : u u u d l l l u u l u r r l l u r r r r u r d d 
 816 : Failed to solve the puzzle
 817 : d r d d l l u d d r u r d d d 
-818 : Failed to solve the puzzle
+818 : d r d r d r u l l l l l r r d l l u u r u l 
 819 : u r r d r d d d l l l l r r r r u u u l u u r d d u u u u l d l d r d d l l u r r 
-820 : Failed to solve the puzzle
-821 : Failed to solve the puzzle
+820 : u l l u r r d r u l l l u l u u u r d u r r d l l d u u l d d d 
+821 : u l u u r d u l u u r r u r r u r d l l d r d r d d l 
 822 : Failed to solve the puzzle
 823 : Failed to solve the puzzle
 824 : r r r u u l d r d r u u u u u 
 825 : Failed to solve the puzzle
-826 : Failed to solve the puzzle
+826 : d d u u l d d d r u r d u r d d u l l l d l l d d 
 827 : Failed to solve the puzzle
 828 : Failed to solve the puzzle
 829 : Failed to solve the puzzle
@@ -834,7 +834,7 @@
 833 : Failed to solve the puzzle
 834 : Failed to solve the puzzle
 835 : u u u u d d r l d d r u u u u d d d d r r r r r 
-836 : Failed to solve the puzzle
+836 : u u l l u u r r u u l d d u u l d d d d l d l u r r d d r d l 
 837 : d l l l r u l d l l l r r r r r r u l u r u u l d d d 
 838 : l u u r r d l l l u r r u u l d d u u r r r r d d l u d l l l l 
 839 : u r d l d d r r r d r r u l d l u r r u r u u u u u l l d r u r d d l 
@@ -842,22 +842,22 @@
 841 : Failed to solve the puzzle
 842 : r r r u u l l r d l l l d l l u u r d r d l 
 843 : d r d r u r u d l u u l u r r u l r u u l d d 
-844 : Failed to solve the puzzle
-845 : Failed to solve the puzzle
+844 : u u u u l u r r r r r l d l l l d d d l l d d r d r u u u l d d u u r u u u l u r 
+845 : r u u l d d r d l u u u l l l d d d l l u u u u d r r d l d l u u r u l 
 846 : u l d d l d l d l u u r r l l u u u r r d 
 847 : Failed to solve the puzzle
-848 : Failed to solve the puzzle
-849 : Failed to solve the puzzle
+848 : l l u r r u r d d u r u r d d d d r u r d d d l l u u u l d 
+849 : d d d l u l l d d r r r r u u u u d d d r r d r d l 
 850 : Failed to solve the puzzle
-851 : Failed to solve the puzzle
+851 : r r u l l l u r u l d d d d d r u r d l d r r r r 
 852 : u r u u u u r u l d d d d l d d d l r r r l u u u u u 
 853 : d d d d d d r u l u u u u u r u r r d r r 
-854 : Failed to solve the puzzle
-855 : Failed to solve the puzzle
-856 : Failed to solve the puzzle
+854 : d r d l l u r u l d l u l l l l d r d r u d r u u u 
+855 : d l d l l u r d r u d d d l l l d l l u r u r d r d l l 
+856 : r d l l l u u l l d d r r r d r r r l l u u d l l l l d r r u u l u l d 
 857 : Failed to solve the puzzle
-858 : Failed to solve the puzzle
-859 : Failed to solve the puzzle
+858 : l l l u u u r r r r l l l l d l d l d r r r r r r u u r u u d l l r u u u 
+859 : d l u l l d u r d d l d l l l l u u r d u r r r d r u 
 860 : l l l d l u u u r r r u r r d r r u d l u l l l d l l u r r r r 
 861 : Failed to solve the puzzle
 862 : r d l d r l l u d d l d r r r u u 
@@ -869,37 +869,37 @@
 868 : Failed to solve the puzzle
 869 : l l r u l d d d r u l u u r r d l u l l l d l u r r r d l 
 870 : Failed to solve the puzzle
-871 : Failed to solve the puzzle
+871 : r u l u r l u u r u r d l d d d r r u u u r u l 
 872 : r r r u d r u u r u u l u u d l l u u r d l d r d d r 
-873 : Failed to solve the puzzle
+873 : u r r r u u r u l r r r d l r d l l l l d l u u l l d r 
 874 : l r d l r d d d d d l l l l l r r r r r u u l d r d l 
 875 : Failed to solve the puzzle
 876 : Failed to solve the puzzle
-877 : Failed to solve the puzzle
+877 : u u r r r d d d l l r r d r r u l r u l u r u u l d l u l d l l d d d 
 878 : d d r u d r r d r r r r u u l d r d l l l l 
 879 : r u u u u l u l u r d d d l d d r u u r d d 
 880 : r r d r r r l l l u r r r l l l l l d r r r l l l d d d d d 
 881 : Failed to solve the puzzle
 882 : r d r d d d l d r u u u u l u l l l d r r r 
-883 : Failed to solve the puzzle
+883 : u r r u r d l u l u l u u r d d u u r d d l d r l d u u l d d d d 
 884 : Failed to solve the puzzle
 885 : Failed to solve the puzzle
 886 : u r r r r l l u l u u r d d u u u u d l l u u r d l d r 
 887 : Failed to solve the puzzle
 888 : d l l l u l u l l d d r u r r d r r u l l l 
-889 : Failed to solve the puzzle
+889 : r u u u l u l l d r r r l l l l l u r u r u r d d l d r r l l d r r r 
 890 : r u u r u r r d d d u u l l u l d d r r d r d d d 
 891 : r r d r r u l r r d d d d l l u u u r r d l r d d l u u u 
 892 : u r u u l d l l u l l d r r r r d r d d l u u r u l u l l l 
 893 : Failed to solve the puzzle
 894 : d l l l l l l d l u r r r r r r r u u l d r d l l l l l l u u r d l d r r r r l d l 
-895 : Failed to solve the puzzle
+895 : r u r d d d d l u l u r l l u r l u r r d d 
 896 : d d r l d d r u l u u r r r d d l l d l u r r r u u l l l u u r d l d r d d l u 
 897 : r d d d r r u u l r u u l d l d d r u r d l d l 
 898 : l u d l d l u u r u u r r d l 
-899 : Failed to solve the puzzle
+899 : l d d d l d r r u r l l u u r d r d r d r r u u l l l l 
 900 : Failed to solve the puzzle
-901 : Failed to solve the puzzle
+901 : r u u l l l l d l u u u d d r r r r d d l u r u l l l d l u r r r d r r r r u l l l l d l l u l d 
 902 : Failed to solve the puzzle
 903 : Failed to solve the puzzle
 904 : Failed to solve the puzzle
@@ -907,55 +907,55 @@
 906 : r r d r d l u u u r d d r d l r u u u u u 
 907 : Failed to solve the puzzle
 908 : r r d r r r r u l r u u l u u r d d d u u l u u u r d d 
-909 : Failed to solve the puzzle
-910 : Failed to solve the puzzle
+909 : u l u u u r r l l d d d r r u r d d l d r r r d r r u u l d r d l u u r u u u u l l r r u l l l 
+910 : d l d d l u l u r l d d r r r r r d r r u l l l l 
 911 : d d d d d d r r r r r r u l d l l l l l u u r d l d r r r u l d r r r u l d l l l l u u r d l d r r r r 
 912 : r d d l d d r d l u u u r u u l d d r d d l d l l l l d r r 
 913 : d l l u l l u l d u u l l d r d r r r r d r r u l l l l l l d u u l d d d d d 
 914 : Failed to solve the puzzle
-915 : Failed to solve the puzzle
+915 : r r u l l u u r r u u u l d u l d l r d d d d d r d l 
 916 : Failed to solve the puzzle
 917 : r l d d r l u r u r u r d r u 
-918 : Failed to solve the puzzle
+918 : r r u u u r u l l d r d d d l d d r d r u l u u u u u l u r 
 919 : u u u u u d d d r r l l d d r u r u r r d l l l d l u u r l u u 
-920 : Failed to solve the puzzle
+920 : u l u r u u r d d d r r u r u l l r u u l d 
 921 : Failed to solve the puzzle
-922 : Failed to solve the puzzle
+922 : d d d d u u l l u u r d u r u r d r l d d d d 
 923 : Failed to solve the puzzle
-924 : Failed to solve the puzzle
+924 : d u r r u u u l d r u u u l d l d d d d r d d l r u l l 
 925 : Failed to solve the puzzle
 926 : Failed to solve the puzzle
 927 : d d d d u u l d u u u l u u r r d l d l u r r d d d d 
 928 : d d r d l u u r r r d l u l l d l l u d r r d r u r u r r r d l l l l l l r u r r r 
-929 : Failed to solve the puzzle
+929 : l u u r u u u l u r d d d d l d d r u r r r l l l u u r d l d r 
 930 : l l r u u d l l l d l u r r r d l u l l u u r d 
-931 : Failed to solve the puzzle
+931 : u r r r d l d d d l l u r r u r d l l l l l u l u u r d l d d r r u l d l d d u u u u 
 932 : u u r r d r r l u u r r r r d l d u l l r d 
 933 : l d u l d l d d r u r r r r l l l u l d d r r r r 
 934 : r r u r r d r r u r d l l l u l l d l l u r r d r r u r d 
 935 : u r u u l u u r u d d d d d l u u 
-936 : Failed to solve the puzzle
-937 : Failed to solve the puzzle
+936 : d r d r r u u u r u l d d d d l l u r d r u u u d d r r r d r u u u u d l 
+937 : r u u l u u r r l l d d r u l u u r r d r r r l l l l d l d d d d d r u u u u u l u r u r r r r 
 938 : u u d r d l l u u u l u r r r 
 939 : l l l l l u l u u r l d d r u u u u l u r l l d 
 940 : d l l d d r u l u r r r r d r u u u r u l r u l u r l l l l l d r r r r l d d 
 941 : Failed to solve the puzzle
-942 : Failed to solve the puzzle
+942 : l l l l d l l u l u u r d d d r r u u l d l l u u r d d u l u u u r d d d l d r r r 
 943 : l l l l l l u r u d r u u d r u u l d d d d r u 
-944 : Failed to solve the puzzle
+944 : d l l u l l d l u d d l u u u u l u r d d r d r r r d l r r r u l l l l l d l u u 
 945 : u u r d d r d l d d r r u r u l d d d l l 
 946 : Failed to solve the puzzle
 947 : Failed to solve the puzzle
-948 : Failed to solve the puzzle
-949 : Failed to solve the puzzle
+948 : d r r u r r d d l d d d r u l u u r u u l d d d d r d l l l l l r r r r u r u u l u l l l u r r u r d d d d d 
+949 : r r r r r u r d r d d d d d l l l u l d l u r r d r r r u u u u u l u u r d d d u l l l l l l l u r r r r r r 
 950 : d u l u u u u r r r l l l d d r r r r r r l l u u r r d d 
 951 : d d d u u u l d d l d d l d l l u r r d r u 
 952 : Failed to solve the puzzle
-953 : Failed to solve the puzzle
+953 : u l l u r u r u u l d d r d l d d r u u l l l l u l d d l u d r r r r r 
 954 : Failed to solve the puzzle
 955 : u l l d d d d l l l l u r l u u u u r d d u r r d r u 
 956 : d d d r r r d d l l u r r r d r u u u d d l l u r l l l 
-957 : Failed to solve the puzzle
+957 : l u u r u r u l l l l d r r d d d r u r u u d l d l l d d d r u 
 958 : l d d d d d d r d r r u u u r u l l l l l d l u u u r 
 959 : Failed to solve the puzzle
 960 : r r d l u l l l d r d l l l u u r d 
@@ -963,38 +963,38 @@
 962 : l u u l l l d r r u u l u l u u u r d d d l d r d r r d l l l u 
 963 : l l l u r u l u u l u r u r d d d 
 964 : u u r l d d r u r u u d d l u l u l u u r r 
-965 : Failed to solve the puzzle
-966 : Failed to solve the puzzle
+965 : r d r u l l l u u l u u r d d d u r r u l u l d d r r d d r d l 
+966 : d l l l d r r d r u u u d d r r d r u u l d l u u 
 967 : Failed to solve the puzzle
 968 : Failed to solve the puzzle
 969 : Failed to solve the puzzle
 970 : Failed to solve the puzzle
 971 : r u u l u u r u u l u r d d d l u d d d r d d l u u 
 972 : r l u r r r r r d r u l l l d d l u l u r r r l d r r u r d u u u l d 
-973 : Failed to solve the puzzle
+973 : l l l r u l l u l d r d r u r u r r d r d l l u d l l d l l 
 974 : Failed to solve the puzzle
 975 : l l d r l d r r l l l d l d d r u u u l u r 
 976 : Failed to solve the puzzle
-977 : Failed to solve the puzzle
+977 : l d l l d l r d d d l u u u u d l u r u l u r r r r 
 978 : d d l d d r d d l l l l u r d r r r u u l d r d l l r u u u u r d d u u u u l d d d d 
 979 : d l d d r l d r r r u u l d r r d u r d d r r u l l 
 980 : Failed to solve the puzzle
 981 : Failed to solve the puzzle
-982 : Failed to solve the puzzle
+982 : l d r r r r u r d d d d d d l l u l u u u d r 
 983 : Failed to solve the puzzle
 984 : u l u l r r u r u l d l l l 
 985 : Failed to solve the puzzle
-986 : Failed to solve the puzzle
+986 : d l d d r r u l l d l u u r d d r r r r r u u l u u r u l l l r d r d d r u d d d l u u u u 
 987 : Failed to solve the puzzle
 988 : d l l l l l u u u d d d r r u l d l u u d d r r r r r u l l 
-989 : Failed to solve the puzzle
+989 : u l d d u l l d r d d d r d l l l l l r r r r u u r r u l u l d d d r d l l l l r r r u u u u l u u u r d d u r r d l l d d d d r d l 
 990 : l l d d d d u u u l d d r r d u u u u u 
-991 : Failed to solve the puzzle
+991 : d r u l l l d r u r r d r r r d r d d d d d l u r u u u u l u u r d l u l l l l l d r r 
 992 : Failed to solve the puzzle
 993 : l u u u d d l d d u r r d l d l l u d r r u u l d r d l 
 994 : Failed to solve the puzzle
-995 : Failed to solve the puzzle
+995 : r d l d r r l l l l d r l u u u u r d d 
 996 : d d r d r r r u l r u u u l u u u l l d r u r d r d d d u l u u 
 997 : Failed to solve the puzzle
 998 : l d d d d d u u r u u u l l d d d d u l l 
-999 : Failed to solve the puzzle
+999 : u u u r r d r u u u l d r d d d l l l u l u l d l d 
